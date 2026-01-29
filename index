@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My First HTML Page</title>
+</head>
+
+<body>
+   	<h1>Lydia Mkrtchyan</h1>
+	<p>Creative Statement</p>
+	<img src="Images/art.png" width="367" height="448">
+</body>
+
+</html>
