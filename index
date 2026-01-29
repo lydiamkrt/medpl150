@@ -1,14 +1,9 @@
-<!DOCTYPE html>
 <html>
 
-<head>
-	<title>My First HTML Page</title>
-</head>
-
 <body>
-   	<h1>Lydia Mkrtchyan</h1>
-	<p>Creative Statement</p>
-	<img src="Images/art.png" width="367" height="448">
+  <h1>YOUR NAME</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
 
 </html>
